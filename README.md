@@ -1,5 +1,5 @@
 # YoutubeVideoDownloader
-![Youtube GUI Logo](https://github.com/Hyprr96]/YoutubeVideoDownloader/blob/main/logo.png?raw=true)
+![ALT Text](https://github.com/Hyprr96]/YoutubeVideoDownloader/blob/main/logo.png?raw=true)
 A simple Tkinter GUI I created to download Youtube videos. 
 Pardon the poor code, and non-existent requirements text file; this was created for a school project during a time when I wasn't as well versed in Python and coder-stuff.
 Anyways, this is just a simple video downloader that downloads the highest quality available (capped at 720p, check comments at bottom for why that is) in the path the file 
